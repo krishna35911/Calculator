@@ -1,0 +1,13 @@
+body
+{
+    background-color:rgb(106, 109, 109);
+}
+.text
+{
+    text-align: right;
+    width: 100%;
+}
+table tbody,tr
+{
+    border: black solid ;
+}
